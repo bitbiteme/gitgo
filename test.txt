@@ -2,3 +2,5 @@ just a test file
 don't want say anything
 branch test
 Append new line in branch master
+
+modified not the same line
